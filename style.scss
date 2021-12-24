@@ -6,10 +6,7 @@
 
 @import "reset";
 @import "variables";
-//@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -21,10 +18,10 @@ html {
 }
 
 body {
-  background: $white;
+	background: $white;
   font: 15px/1.5 'Source Sans Pro', sans-serif;
   color: $black;
-  font-weight:300;
+  font-weight:600;
 }
 
 .container {
