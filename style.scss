@@ -158,13 +158,13 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  font-weight : 600;
 }
 
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  font-weight : 600;
-
+  
   @include mobile {
     text-align: center;
   }
