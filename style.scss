@@ -76,12 +76,12 @@ p {
 
 a {
   // color: #9400d3;
-  color: #800000
+  color: #800000;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     // color: #9400d3;
-    color: #800000
+    color: #800000;
   }
 }
 
@@ -242,7 +242,7 @@ nav {
     @include mobile {
       margin: 0 10px;
       // color: #9400d3;
-      color: #800000
+      color: #800000;
     }
   }
 }
