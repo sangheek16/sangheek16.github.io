@@ -1,3 +1,6 @@
+_includes
+_posts
+_sass
 _site
 .DS_Store
 .jekyll
